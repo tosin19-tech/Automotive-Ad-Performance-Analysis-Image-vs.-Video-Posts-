@@ -12,7 +12,7 @@ A. Descriptive Analysis (Power BI Dashboard)
 1. Overview
 A Power BI dashboard was created to visualize the main performance indicators:
 * Engagement Rate
-* Conversion Rate
+* Conversion Rate 
 * Impressions
 * Post Type Count (Image vs. Video)
   It also integrates financial metrics such as:
