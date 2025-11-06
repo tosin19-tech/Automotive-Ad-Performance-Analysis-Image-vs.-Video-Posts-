@@ -27,15 +27,15 @@ A Power BI dashboard was created to visualize the main performance indicators:
 * Image posts: 17 total
 * Image posts had higher impressions (visibility) but lower conversions rates.
 * Video posts achieved higher peak conversions, but their performance varied widely.
-* Best-Performing Days (Impressions & Conversions)
-  - Mondays recorded the highest visibility and conversions (~2,004 impressions / 27 conversions), followed by Thursday (1,350/ 15) and Fridays (1,120/ 15).
-  - This indicates early-week campaigns tend to attract the largest audineces and drive the most conversions.
+* Best-Performing Days (Engagement & Conversions rates)
+  - Mondays recorded the highest engagement and conversion rates (6.04 engagement / 0.18 conversion rates, followed by Thursday (4.50/ 0.14) and Fridays (3.37/ 0.12).
+  - This indicates early-week campaigns tend to drive more engagments and drive the most conversions.
 * Best-Performing Times of Day:
-  - 11 a.m. showed the peak engagement window (~1,743 impressions / 21 conversions), followed by 9 a.m. (887/ 12).
-  - Morning hours appear to  be the optimal posting times for maximizing visibilty and conversions.
+  - 11 a.m. showed the peak engagement window (4.89 engagement / 0.21 conversion rates), followed by 9 a.m. (3.64/ 0.11).
+  - Morning hours appear to  be the optimal posting times for maximizing engagement and conversions.
 * Conversion Trends Over Time (Video vs Image):
   - Video posts started strong at 0.03 conversions rate in wWeek 1 but dropped to around 0.01 by Week 2, before spiking again to 0.04 in Week 4.
-  - Image posts began lower to 0.01, peaked at 0.02 in Wekk 4, and fell to 0.00 by Week 6.
+  - Image posts began lower to 0.01, peaked at 0.02 in Week 4, and fell to 0.00 by Week 6.
   - Both formats show mid-campaign spikes followed by declines, suggesting performance fatigue or reduced engagement over time.
  
 * Financial Metrics
